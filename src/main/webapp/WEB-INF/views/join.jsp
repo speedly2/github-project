@@ -7,6 +7,6 @@
 <title>Join</title>
 </head>
 <body>
-<h2>join page</h2>
+<h2>회원가입 페이지</h2>
 </body>
 </html>
